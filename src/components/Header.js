@@ -2,7 +2,7 @@ import React from "react";
 import { useDispatch } from "react-redux";
 import { authAction } from "../store/authSlice";
 import Cart from "./Cart";
-import "./Header.css";
+import "./assets/stylesheet/Header.css";
 const Header = () => {
   const dispatch = useDispatch();
   return (

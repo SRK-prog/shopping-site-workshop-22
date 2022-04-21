@@ -1,5 +1,4 @@
 import React, { useEffect } from "react";
-import "./App.css";
 import { useDispatch, useSelector } from "react-redux";
 import Auth from "./components/Auth";
 import Layout from "./components/Layout";

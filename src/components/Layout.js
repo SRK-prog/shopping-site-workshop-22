@@ -2,7 +2,7 @@ import React from "react";
 import { useSelector } from "react-redux";
 import Header from "./Header";
 import Products from "./Products";
-import "./Layout.css";
+import "./assets/stylesheet/Layout.css";
 import CartItems from "./CartItems";
 const Layout = () => {
   let total = 0;
